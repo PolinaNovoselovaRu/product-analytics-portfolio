@@ -1,7 +1,7 @@
 # Маркетплейс - полный цикл продуктовой аналитики
 
 **Аттестационный проект Яндекс Практикума**  
-Стек: Python (pandas, numpy, seaborn, plotly, scipy), SQL, Yandex DataLens
+Стек: Python (pandas, numpy, seaborn, plotly, scipy), SQL
 
 ---
 
