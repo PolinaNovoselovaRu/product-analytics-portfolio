@@ -46,7 +46,7 @@
 | Проект | Описание | Стек | Ссылка |
 |--------|----------|------|--------|
 | **Маркетплейс - полный цикл продуктовой аналитики** | Аттестационный проект Яндекс Практикума. Загрузка и очистка данных, DAU/WAU/MAU, retention, юнит-экономика (CAC, LTV, ROI, Payback Period), сегментация по каналам/регионам/устройствам, A/B-тест (бонус для TikTok) | Python, SQL, DataLens | [-> папка проекта](./marketplace_project) |
-| **Olist - анализ бразильского маркетплейса** | Тестовое задание. SQL-витрины для трех отделов, EDA и визуализация на Python, дашборд в DataLens с переключателями | Python, SQL, DataLens | [-> папка проекта]([https://disk.yandex.ru/d/GPWQPT3nvzIZ9Q](https://github.com/PolinaNovoselovaRu/product-analytics-portfolio/tree/main/olist_project)) |
+| **Olist - анализ бразильского маркетплейса** | Тестовое задание. SQL-витрины для трех отделов, EDA и визуализация на Python, дашборд в DataLens с переключателями | Python, SQL, DataLens | [-> папка проекта](https://github.com/PolinaNovoselovaRu/product-analytics-portfolio/tree/main/olist_project) |
 
 *Проекты добавляются по мере оформления.*
 
