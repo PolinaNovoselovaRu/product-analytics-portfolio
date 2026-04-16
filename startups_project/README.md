@@ -101,7 +101,7 @@
 
 | Файл | Описание |
 |------|----------|
-| `startups_analysis.ipynb` | Jupyter Notebook с полным кодом и выводами |
+| `startups_analysis_github.ipynb` | Jupyter Notebook с полным кодом и выводами |
 
 *Исходные данные (cb_investments.zip, cb_returns.csv) не включены в репозиторий*
 
