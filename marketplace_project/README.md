@@ -57,7 +57,7 @@
 
 | Файл | Описание |
 |------|----------|
-| `marketplace_analysis.ipynb` | Jupyter Notebook с полным кодом и выводами |
+| `marketplace_analysis_github.ipynb` | Jupyter Notebook с полным кодом и выводами |
 | `sql_queries.sql` | SQL-запросы для сбора витрин |
 
 ---
