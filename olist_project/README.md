@@ -1,6 +1,6 @@
 # Olist - анализ бразильского маркетплейса
 
-**Тестовое задание (полный анализ для 3 отделов)**  
+**Pet проект**  
 Стек: Python (pandas, seaborn, plotly), SQL (PostgreSQL), Yandex DataLens
 
 ---
@@ -82,7 +82,7 @@ Olist - бразильский маркетплейс, связывающий п
 ## Ссылки
 
 - **Исходные данные (Kaggle):** https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
-- **Яндекс Диск с полным тестовым:** https://disk.yandex.ru/d/GPWQPT3nvzIZ9Q
+- **Яндекс Диск файлами:** https://disk.yandex.ru/d/GPWQPT3nvzIZ9Q
 
 ---
 
